@@ -4,7 +4,7 @@ class Punto2D {
     - coordY: double
     
     + Punto2D()
-    + Punto2D(x: double, y: double): void
+    + Punto2D(x: double, y: double)
     + setCoordX(x: double): void
     + getCoordX(): double
     + setCoordY(y: double): void
@@ -15,7 +15,7 @@ class Circunferencia {
     - radio: double
 
     + Circunferencia()
-    + Circunferencia(radio: double,  x: double, y: double): void
+    + Circunferencia(radio: double,  x: double, y: double)
     + Circunferencia(radio: double, centro: Punto2D)
     + setCentro(centro: Punto2D): void
     + getCentro(): Punto2D
