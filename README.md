@@ -14,10 +14,10 @@
 ## Integrantes
 
 - **Ronald Sardiñas González**
-- **Christopher Sablón**
-- **Guillermo León**
-- **Brian Ramiréz**
-- **Dasiel**
+- **Christopher Sablón Suárez**
+- **Guillermo León Rodríguez**
+- **Brian Ramírez Enríquez**
+- **Dassiel Quintero Rubido**
 
 ## Tema
 
